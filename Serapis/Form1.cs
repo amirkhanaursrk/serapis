@@ -16,5 +16,20 @@ namespace Serapis
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void flatColorPalette1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void formSkin1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
