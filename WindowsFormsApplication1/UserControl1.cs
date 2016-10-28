@@ -1,18 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Data;
 using System.Drawing;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Serapis
+namespace WindowsFormsApplication1
 {
-    public partial class Console : Form
+    public partial class UserControl1 : UserControl
     {
-        public Console()
+        public UserControl1()
         {
             InitializeComponent();
         }
